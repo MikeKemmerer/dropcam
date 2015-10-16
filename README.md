@@ -1,4 +1,4 @@
-# dropcam_capture
+# dropcam
 A Bash-based method of automatically capturing Nest Dropcam snapshots
 
 ### **Initial Release**
