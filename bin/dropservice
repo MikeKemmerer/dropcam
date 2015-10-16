@@ -1,0 +1,4 @@
+while true
+do /var/www/nest/dropcam/bin/dropcommand.sh 2>&1 >&1 > /dev/null
+sleep 5
+done
